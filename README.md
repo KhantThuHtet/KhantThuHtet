@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khant Thu Htet</h1>
-<h1 align="center">Javascript Developer.</h1>
+<p align="center">Javascript Developer.</p>
 - 🌱 I’m currently deep dive learning **on Javascript.**
 
 - 📫 How to reach me **khantthu.dev@gmail.com**
